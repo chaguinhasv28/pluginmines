@@ -1,0 +1,8 @@
+name: Aniversario
+version: 1.0.0
+author: [
+           santiago,
+           vini bro
+]
+main: com.chaguinhasv28.aniversario.Aniversario
+api-version: 1.14

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aniversario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/aniversario_jar</output-path>
+    <root id="archive" name="aniversario.jar">
+      <element id="module-output" name="aniversario" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/dependencies/spigot-api-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
